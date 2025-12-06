@@ -1,4 +1,4 @@
 # Pujari
 This is my first repository
 <br>
-Author - Sai
+Author - Sai Pujari
